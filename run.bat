@@ -1,0 +1,1 @@
+java -cp target/java-sample-1.0.jar;lib/httpclient-4.5.3.jar;lib/httpcore-4.4.8.jar;lib/commons-logging-1.2.jar;lib/commons-codec-1.9.jar;lib/json-simple-1.1.1.jar com.intrinio.Main
